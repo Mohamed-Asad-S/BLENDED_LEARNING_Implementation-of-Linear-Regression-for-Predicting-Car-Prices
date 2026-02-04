@@ -91,8 +91,9 @@ plt.tight_layout()
 ```
 
 ## Output:
-
-
-
+![alt text](<Screenshot 2026-02-04 080706.png>)
+![alt text](<Screenshot 2026-02-04 080654.png>)
+![alt text](<Screenshot 2026-02-04 080646.png>)
+![alt text](<Screenshot 2026-02-04 080634.png>)
 ## Result:
 Thus, the program to implement a linear regression model for predicting car prices is written and verified using Python programming, along with the testing of key assumptions for linear regression.
